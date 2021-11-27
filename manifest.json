@@ -1,0 +1,28 @@
+{
+    "name": "#ADMI",
+    "short_name": "#ADMI",
+    "description": "Bienvenid@s a #ADMI",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [{
+            "src": "./img/Logos/1.png",
+            "sizes": "1125x1125",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/Logos/2.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/Logos/3.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ]
+}
